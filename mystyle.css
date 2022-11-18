@@ -1,0 +1,18 @@
+<html>  
+<head>  
+<style>  
+h1{  
+color:white;  
+background-color:red;  
+padding:5px;  
+}  
+p{  
+color:blue;  
+}  
+</style>  
+</head>  
+<body>  
+<h1>Write Your First CSS Example</h1>  
+<p>This is Paragraph.</p>  
+</body>  
+</html>  
